@@ -19,7 +19,7 @@ git clone https://github.com/your-username/your-project.git
 ```
 2: Navigate to the project directory:
 ```bash
-cd your-project0
+cd your-project
 
 ```
 3: Install the required dependencies by running the following command:
